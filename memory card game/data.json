@@ -1,0 +1,12 @@
+[
+    { "image": "assets/chili.jpg", "name": "chili" },
+    { "image": "assets/grapes.jpg", "name": "grapes" },
+    { "image": "assets/lemon.jpg", "name": "lemon" },
+    { "image": "assets/orange.jpg", "name": "orange" },
+    { "image": "assets/pineapple.jpg", "name": "pineapple" },
+    { "image": "assets/strawberry.jpg", "name": "strawberry" },
+    { "image": "assets/tomato.jpg", "name": "tomato" },
+    { "image": "assets/watermelon.jpg", "name": "watermelon" },
+    { "image": "assets/cherries.jpg", "name": "cherries" }
+]
+
